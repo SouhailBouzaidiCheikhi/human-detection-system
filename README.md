@@ -214,29 +214,7 @@ python app.py
 ```
 ##📁 Project Structure
 
-human-detection-system/
-│
-├── app.py                    # Main Streamlit application
-├── database.py              # SQLite database operations
-├── face_utils.py            # Face recognition utilities
-├── requirements.txt         # Python dependencies
-│
-├── screenshots/             # Screenshots for documentation
-│   ├── dashboard.png
-│   ├── realtime_detection.png
-│   ├── upload_register.png
-│   ├── manage_database.png
-│   ├── search.png
-│   ├── edit_delete.png
-│   └── settings.png
-│
-├── models/                  # Pre-trained models (if any)
-│
-├── known_faces/             # Saved face encodings (auto-generated)
-│
-├── persons.db              # SQLite database (auto-generated)
-│
-└── README.md               # This file
+<img width="1005" height="811" alt="Screenshot 2025-12-23 063849" src="https://github.com/user-attachments/assets/c8f1048f-5f6c-403c-96b7-a18d451bae4b" />
 
 ##🔧 Technical Details
 
