@@ -64,7 +64,7 @@ Human Detection & Recognition System is a comprehensive facial recognition appli
 ┌─────────────────┐    ┌─────────────────┐    ┌─────────────────┐
 │   SQLite        │◀───│  Database       │◀───│  Face           │
 │   Database      │    │   Manager       │    │  Recognition    │
-└─────────────────┘    └─────────────────┘    └─────────────────┘[Statistics Dashboard]
+└─────────────────┘    └─────────────────┘    └─────────────────┘
 
 
 **Technology Stack:**
